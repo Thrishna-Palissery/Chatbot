@@ -1,0 +1,495 @@
+what date is the project due
+what date is the project due next week
+what date is the project due next month
+what date is the project due this semester
+what date is the class project due
+what date is the class project due next week
+what date is the class project due next month
+what date is the class project due this semester
+what date is the final project due
+what date is the final project due next week
+what date is the final project due next month
+what date is the final project due this semester
+what date is the semester project due
+what date is the semester project due next week
+what date is the semester project due next month
+what date is the semester project due this semester
+what date is the group project due
+what date is the group project due next week
+what date is the group project due next month
+what date is the group project due this semester
+what date is the cmpe 297 project due
+what date is the cmpe 297 project due next week
+what date is the cmpe 297 project due next month
+what date is the cmpe 297 project due this semester
+what date is the deep learning project due
+what date is the deep learning project due next week
+what date is the deep learning project due next month
+what date is the deep learning project due this semester
+what date is the deeplearning project due
+what date is the deeplearning project due next week
+what date is the deeplearning project due next month
+what date is the deeplearning project due this semester
+what date is the cmpe297-11 project due
+what date is the cmpe297-11 project due next week
+what date is the cmpe297-11 project due next month
+what date is the cmpe297-11 project due this semester
+when is the project due
+when is the project due next week
+when is the project due next month
+when is the project due this semester
+when is the class project due
+when is the class project due next week
+when is the class project due next month
+when is the class project due this semester
+when is the final project due
+when is the final project due next week
+when is the final project due next month
+when is the final project due this semester
+when is the semester project due
+when is the semester project due next week
+when is the semester project due next month
+when is the semester project due this semester
+when is the group project due
+when is the group project due next week
+when is the group project due next month
+when is the group project due this semester
+when is the cmpe 297 project due
+when is the cmpe 297 project due next week
+when is the cmpe 297 project due next month
+when is the cmpe 297 project due this semester
+when is the deep learning project due
+when is the deep learning project due next week
+when is the deep learning project due next month
+when is the deep learning project due this semester
+when is the deeplearning project due
+when is the deeplearning project due next week
+when is the deeplearning project due next month
+when is the deeplearning project due this semester
+when is the cmpe297-11 project due
+when is the cmpe297-11 project due next week
+when is the cmpe297-11 project due next month
+when is the cmpe297-11 project due this semester
+what are the project details
+what are the project requirements
+what are the project must haves
+what are the project components
+what are the project criteria
+what are the project topics
+what are the project rubrics
+what are the class project details
+what are the class project requirements
+what are the class project must haves
+what are the class project components
+what are the class project criteria
+what are the class project topics
+what are the class project rubrics
+what are the final project details
+what are the final project requirements
+what are the final project must haves
+what are the final project components
+what are the final project criteria
+what are the final project topics
+what are the final project rubrics
+what are the semester project details
+what are the semester project requirements
+what are the semester project must haves
+what are the semester project components
+what are the semester project criteria
+what are the semester project topics
+what are the semester project rubrics
+what are the group project details
+what are the group project requirements
+what are the group project must haves
+what are the group project components
+what are the group project criteria
+what are the group project topics
+what are the group project rubrics
+what are the cmpe 297 project details
+what are the cmpe 297 project requirements
+what are the cmpe 297 project must haves
+what are the cmpe 297 project components
+what are the cmpe 297 project criteria
+what are the cmpe 297 project topics
+what are the cmpe 297 project rubrics
+what are the deep learning project details
+what are the deep learning project requirements
+what are the deep learning project must haves
+what are the deep learning project components
+what are the deep learning project criteria
+what are the deep learning project topics
+what are the deep learning project rubrics
+what are the deeplearning project details
+what are the deeplearning project requirements
+what are the deeplearning project must haves
+what are the deeplearning project components
+what are the deeplearning project criteria
+what are the deeplearning project topics
+what are the deeplearning project rubrics
+what are the cmpe297-11 project details
+what are the cmpe297-11 project requirements
+what are the cmpe297-11 project must haves
+what are the cmpe297-11 project components
+what are the cmpe297-11 project criteria
+what are the cmpe297-11 project topics
+what are the cmpe297-11 project rubrics
+tell me what are the project details
+tell me what are the project requirements
+tell me what are the project must haves
+tell me what are the project components
+tell me what are the project criteria
+tell me what are the project topics
+tell me what are the project rubrics
+tell me what are the class project details
+tell me what are the class project requirements
+tell me what are the class project must haves
+tell me what are the class project components
+tell me what are the class project criteria
+tell me what are the class project topics
+tell me what are the class project rubrics
+tell me what are the final project details
+tell me what are the final project requirements
+tell me what are the final project must haves
+tell me what are the final project components
+tell me what are the final project criteria
+tell me what are the final project topics
+tell me what are the final project rubrics
+tell me what are the semester project details
+tell me what are the semester project requirements
+tell me what are the semester project must haves
+tell me what are the semester project components
+tell me what are the semester project criteria
+tell me what are the semester project topics
+tell me what are the semester project rubrics
+tell me what are the group project details
+tell me what are the group project requirements
+tell me what are the group project must haves
+tell me what are the group project components
+tell me what are the group project criteria
+tell me what are the group project topics
+tell me what are the group project rubrics
+tell me what are the cmpe 297 project details
+tell me what are the cmpe 297 project requirements
+tell me what are the cmpe 297 project must haves
+tell me what are the cmpe 297 project components
+tell me what are the cmpe 297 project criteria
+tell me what are the cmpe 297 project topics
+tell me what are the cmpe 297 project rubrics
+tell me what are the deep learning project details
+tell me what are the deep learning project requirements
+tell me what are the deep learning project must haves
+tell me what are the deep learning project components
+tell me what are the deep learning project criteria
+tell me what are the deep learning project topics
+tell me what are the deep learning project rubrics
+tell me what are the deeplearning project details
+tell me what are the deeplearning project requirements
+tell me what are the deeplearning project must haves
+tell me what are the deeplearning project components
+tell me what are the deeplearning project criteria
+tell me what are the deeplearning project topics
+tell me what are the deeplearning project rubrics
+tell me what are the cmpe297-11 project details
+tell me what are the cmpe297-11 project requirements
+tell me what are the cmpe297-11 project must haves
+tell me what are the cmpe297-11 project components
+tell me what are the cmpe297-11 project criteria
+tell me what are the cmpe297-11 project topics
+tell me what are the cmpe297-11 project rubrics
+tell us what are the project details
+tell us what are the project requirements
+tell us what are the project must haves
+tell us what are the project components
+tell us what are the project criteria
+tell us what are the project topics
+tell us what are the project rubrics
+tell us what are the class project details
+tell us what are the class project requirements
+tell us what are the class project must haves
+tell us what are the class project components
+tell us what are the class project criteria
+tell us what are the class project topics
+tell us what are the class project rubrics
+tell us what are the final project details
+tell us what are the final project requirements
+tell us what are the final project must haves
+tell us what are the final project components
+tell us what are the final project criteria
+tell us what are the final project topics
+tell us what are the final project rubrics
+tell us what are the semester project details
+tell us what are the semester project requirements
+tell us what are the semester project must haves
+tell us what are the semester project components
+tell us what are the semester project criteria
+tell us what are the semester project topics
+tell us what are the semester project rubrics
+tell us what are the group project details
+tell us what are the group project requirements
+tell us what are the group project must haves
+tell us what are the group project components
+tell us what are the group project criteria
+tell us what are the group project topics
+tell us what are the group project rubrics
+tell us what are the cmpe 297 project details
+tell us what are the cmpe 297 project requirements
+tell us what are the cmpe 297 project must haves
+tell us what are the cmpe 297 project components
+tell us what are the cmpe 297 project criteria
+tell us what are the cmpe 297 project topics
+tell us what are the cmpe 297 project rubrics
+tell us what are the deep learning project details
+tell us what are the deep learning project requirements
+tell us what are the deep learning project must haves
+tell us what are the deep learning project components
+tell us what are the deep learning project criteria
+tell us what are the deep learning project topics
+tell us what are the deep learning project rubrics
+tell us what are the deeplearning project details
+tell us what are the deeplearning project requirements
+tell us what are the deeplearning project must haves
+tell us what are the deeplearning project components
+tell us what are the deeplearning project criteria
+tell us what are the deeplearning project topics
+tell us what are the deeplearning project rubrics
+tell us what are the cmpe297-11 project details
+tell us what are the cmpe297-11 project requirements
+tell us what are the cmpe297-11 project must haves
+tell us what are the cmpe297-11 project components
+tell us what are the cmpe297-11 project criteria
+tell us what are the cmpe297-11 project topics
+tell us what are the cmpe297-11 project rubrics
+what is in the project rubric
+what is in the project grading criteria
+what is in the class project rubric
+what is in the class project grading criteria
+what is in the final project rubric
+what is in the final project grading criteria
+what is in the semester project rubric
+what is in the semester project grading criteria
+what is in the group project rubric
+what is in the group project grading criteria
+what is in the cmpe 297 project rubric
+what is in the cmpe 297 project grading criteria
+what is in the deep learning project rubric
+what is in the deep learning project grading criteria
+what is in the deeplearning project rubric
+what is in the deeplearning project grading criteria
+what is in the cmpe297-11 project rubric
+what is in the cmpe297-11 project grading criteria
+what composes the project rubric
+what composes the project grading criteria
+what composes the class project rubric
+what composes the class project grading criteria
+what composes the final project rubric
+what composes the final project grading criteria
+what composes the semester project rubric
+what composes the semester project grading criteria
+what composes the group project rubric
+what composes the group project grading criteria
+what composes the cmpe 297 project rubric
+what composes the cmpe 297 project grading criteria
+what composes the deep learning project rubric
+what composes the deep learning project grading criteria
+what composes the deeplearning project rubric
+what composes the deeplearning project grading criteria
+what composes the cmpe297-11 project rubric
+what composes the cmpe297-11 project grading criteria
+what comprises the project rubric
+what comprises the project grading criteria
+what comprises the class project rubric
+what comprises the class project grading criteria
+what comprises the final project rubric
+what comprises the final project grading criteria
+what comprises the semester project rubric
+what comprises the semester project grading criteria
+what comprises the group project rubric
+what comprises the group project grading criteria
+what comprises the cmpe 297 project rubric
+what comprises the cmpe 297 project grading criteria
+what comprises the deep learning project rubric
+what comprises the deep learning project grading criteria
+what comprises the deeplearning project rubric
+what comprises the deeplearning project grading criteria
+what comprises the cmpe297-11 project rubric
+what comprises the cmpe297-11 project grading criteria
+what do I need to do for the project
+what do I need to do for the class project
+what do I need to do for the final project
+what do I need to do for the semester project
+what do I need to do for the group project
+what do I need to do for the cmpe 297 project
+what do I need to do for the deep learning project
+what do I need to do for the deeplearning project
+what do I need to do for the cmpe297-11 project
+what do I need to get done for the project
+what do I need to get done for the class project
+what do I need to get done for the final project
+what do I need to get done for the semester project
+what do I need to get done for the group project
+what do I need to get done for the cmpe 297 project
+what do I need to get done for the deep learning project
+what do I need to get done for the deeplearning project
+what do I need to get done for the cmpe297-11 project
+what do we need to do for the project
+what do we need to do for the class project
+what do we need to do for the final project
+what do we need to do for the semester project
+what do we need to do for the group project
+what do we need to do for the cmpe 297 project
+what do we need to do for the deep learning project
+what do we need to do for the deeplearning project
+what do we need to do for the cmpe297-11 project
+what do we need to get done for the project
+what do we need to get done for the class project
+what do we need to get done for the final project
+what do we need to get done for the semester project
+what do we need to get done for the group project
+what do we need to get done for the cmpe 297 project
+what do we need to get done for the deep learning project
+what do we need to get done for the deeplearning project
+what do we need to get done for the cmpe297-11 project
+what is in the project
+what is in the project details
+what is in the project requirements
+what is in the project must haves
+what is in the project components
+what is in the project criteria
+what is in the project topics
+what is in the project rubrics
+what is in the class project
+what is in the class project details
+what is in the class project requirements
+what is in the class project must haves
+what is in the class project components
+what is in the class project criteria
+what is in the class project topics
+what is in the class project rubrics
+what is in the final project
+what is in the final project details
+what is in the final project requirements
+what is in the final project must haves
+what is in the final project components
+what is in the final project criteria
+what is in the final project topics
+what is in the final project rubrics
+what is in the semester project
+what is in the semester project details
+what is in the semester project requirements
+what is in the semester project must haves
+what is in the semester project components
+what is in the semester project criteria
+what is in the semester project topics
+what is in the semester project rubrics
+what is in the group project
+what is in the group project details
+what is in the group project requirements
+what is in the group project must haves
+what is in the group project components
+what is in the group project criteria
+what is in the group project topics
+what is in the group project rubrics
+what is in the cmpe 297 project
+what is in the cmpe 297 project details
+what is in the cmpe 297 project requirements
+what is in the cmpe 297 project must haves
+what is in the cmpe 297 project components
+what is in the cmpe 297 project criteria
+what is in the cmpe 297 project topics
+what is in the cmpe 297 project rubrics
+what is in the deep learning project
+what is in the deep learning project details
+what is in the deep learning project requirements
+what is in the deep learning project must haves
+what is in the deep learning project components
+what is in the deep learning project criteria
+what is in the deep learning project topics
+what is in the deep learning project rubrics
+what is in the deeplearning project
+what is in the deeplearning project details
+what is in the deeplearning project requirements
+what is in the deeplearning project must haves
+what is in the deeplearning project components
+what is in the deeplearning project criteria
+what is in the deeplearning project topics
+what is in the deeplearning project rubrics
+what is in the cmpe297-11 project
+what is in the cmpe297-11 project details
+what is in the cmpe297-11 project requirements
+what is in the cmpe297-11 project must haves
+what is in the cmpe297-11 project components
+what is in the cmpe297-11 project criteria
+what is in the cmpe297-11 project topics
+what is in the cmpe297-11 project rubrics
+what are the project
+what are the project details
+what are the project requirements
+what are the project must haves
+what are the project components
+what are the project criteria
+what are the project topics
+what are the project rubrics
+what are the class project
+what are the class project details
+what are the class project requirements
+what are the class project must haves
+what are the class project components
+what are the class project criteria
+what are the class project topics
+what are the class project rubrics
+what are the final project
+what are the final project details
+what are the final project requirements
+what are the final project must haves
+what are the final project components
+what are the final project criteria
+what are the final project topics
+what are the final project rubrics
+what are the semester project
+what are the semester project details
+what are the semester project requirements
+what are the semester project must haves
+what are the semester project components
+what are the semester project criteria
+what are the semester project topics
+what are the semester project rubrics
+what are the group project
+what are the group project details
+what are the group project requirements
+what are the group project must haves
+what are the group project components
+what are the group project criteria
+what are the group project topics
+what are the group project rubrics
+what are the cmpe 297 project
+what are the cmpe 297 project details
+what are the cmpe 297 project requirements
+what are the cmpe 297 project must haves
+what are the cmpe 297 project components
+what are the cmpe 297 project criteria
+what are the cmpe 297 project topics
+what are the cmpe 297 project rubrics
+what are the deep learning project
+what are the deep learning project details
+what are the deep learning project requirements
+what are the deep learning project must haves
+what are the deep learning project components
+what are the deep learning project criteria
+what are the deep learning project topics
+what are the deep learning project rubrics
+what are the deeplearning project
+what are the deeplearning project details
+what are the deeplearning project requirements
+what are the deeplearning project must haves
+what are the deeplearning project components
+what are the deeplearning project criteria
+what are the deeplearning project topics
+what are the deeplearning project rubrics
+what are the cmpe297-11 project
+what are the cmpe297-11 project details
+what are the cmpe297-11 project requirements
+what are the cmpe297-11 project must haves
+what are the cmpe297-11 project components
+what are the cmpe297-11 project criteria
+what are the cmpe297-11 project topics
+what are the cmpe297-11 project rubrics

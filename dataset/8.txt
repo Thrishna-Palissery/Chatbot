@@ -1,0 +1,525 @@
+what is the professors name
+what is the professors last name
+what is the lecturers name
+what is the lecturers last name
+what is the teachers name
+what is the teachers last name
+what is the teacher assistants name
+what is the teacher assistants last name
+what is the TAs name
+what is the TAs last name
+what is the cmpe 297 professors name
+what is the cmpe 297 professors last name
+what is the cmpe 297 lecturers name
+what is the cmpe 297 lecturers last name
+what is the cmpe 297 teachers name
+what is the cmpe 297 teachers last name
+what is the cmpe 297 teacher assistants name
+what is the cmpe 297 teacher assistants last name
+what is the cmpe 297 TAs name
+what is the cmpe 297 TAs last name
+what is the cmpe 297-11 professors name
+what is the cmpe 297-11 professors last name
+what is the cmpe 297-11 lecturers name
+what is the cmpe 297-11 lecturers last name
+what is the cmpe 297-11 teachers name
+what is the cmpe 297-11 teachers last name
+what is the cmpe 297-11 teacher assistants name
+what is the cmpe 297-11 teacher assistants last name
+what is the cmpe 297-11 TAs name
+what is the cmpe 297-11 TAs last name
+what is the Computer Engineering 297 professors name
+what is the Computer Engineering 297 professors last name
+what is the Computer Engineering 297 lecturers name
+what is the Computer Engineering 297 lecturers last name
+what is the Computer Engineering 297 teachers name
+what is the Computer Engineering 297 teachers last name
+what is the Computer Engineering 297 teacher assistants name
+what is the Computer Engineering 297 teacher assistants last name
+what is the Computer Engineering 297 TAs name
+what is the Computer Engineering 297 TAs last name
+what is the deep learning professors name
+what is the deep learning professors last name
+what is the deep learning lecturers name
+what is the deep learning lecturers last name
+what is the deep learning teachers name
+what is the deep learning teachers last name
+what is the deep learning teacher assistants name
+what is the deep learning teacher assistants last name
+what is the deep learning TAs name
+what is the deep learning TAs last name
+what do we call the professor
+what do we call the lecturer
+what do we call the teacher
+what do we call the teacher assistant
+what do we call the TA
+what do we call the cmpe 297 professor
+what do we call the cmpe 297 lecturer
+what do we call the cmpe 297 teacher
+what do we call the cmpe 297 teacher assistant
+what do we call the cmpe 297 TA
+what do we call the cmpe 297-11 professor
+what do we call the cmpe 297-11 lecturer
+what do we call the cmpe 297-11 teacher
+what do we call the cmpe 297-11 teacher assistant
+what do we call the cmpe 297-11 TA
+what do we call the Computer Engineering 297 professor
+what do we call the Computer Engineering 297 lecturer
+what do we call the Computer Engineering 297 teacher
+what do we call the Computer Engineering 297 teacher assistant
+what do we call the Computer Engineering 297 TA
+what do we call the deep learning professor
+what do we call the deep learning lecturer
+what do we call the deep learning teacher
+what do we call the deep learning teacher assistant
+what do we call the deep learning TA
+how do we address the professor
+how do we address the lecturer
+how do we address the teacher
+how do we address the teacher assistant
+how do we address the TA
+how do we address the cmpe 297 professor
+how do we address the cmpe 297 lecturer
+how do we address the cmpe 297 teacher
+how do we address the cmpe 297 teacher assistant
+how do we address the cmpe 297 TA
+how do we address the cmpe 297-11 professor
+how do we address the cmpe 297-11 lecturer
+how do we address the cmpe 297-11 teacher
+how do we address the cmpe 297-11 teacher assistant
+how do we address the cmpe 297-11 TA
+how do we address the Computer Engineering 297 professor
+how do we address the Computer Engineering 297 lecturer
+how do we address the Computer Engineering 297 teacher
+how do we address the Computer Engineering 297 teacher assistant
+how do we address the Computer Engineering 297 TA
+how do we address the deep learning professor
+how do we address the deep learning lecturer
+how do we address the deep learning teacher
+how do we address the deep learning teacher assistant
+how do we address the deep learning TA
+who is the professor
+who is the lecturer
+who is the teacher
+who is the teacher assistant
+who is the TA
+who is the cmpe 297 professor
+who is the cmpe 297 lecturer
+who is the cmpe 297 teacher
+who is the cmpe 297 teacher assistant
+who is the cmpe 297 TA
+who is the cmpe 297-11 professor
+who is the cmpe 297-11 lecturer
+who is the cmpe 297-11 teacher
+who is the cmpe 297-11 teacher assistant
+who is the cmpe 297-11 TA
+who is the Computer Engineering 297 professor
+who is the Computer Engineering 297 lecturer
+who is the Computer Engineering 297 teacher
+who is the Computer Engineering 297 teacher assistant
+who is the Computer Engineering 297 TA
+who is the deep learning professor
+who is the deep learning lecturer
+who is the deep learning teacher
+who is the deep learning teacher assistant
+who is the deep learning TA
+tell me the professors name
+tell me the lecturers name
+tell me the teachers name
+tell me the teacher assistants name
+tell me the TAs name
+tell me the cmpe 297 professors name
+tell me the cmpe 297 lecturers name
+tell me the cmpe 297 teachers name
+tell me the cmpe 297 teacher assistants name
+tell me the cmpe 297 TAs name
+tell me the cmpe 297-11 professors name
+tell me the cmpe 297-11 lecturers name
+tell me the cmpe 297-11 teachers name
+tell me the cmpe 297-11 teacher assistants name
+tell me the cmpe 297-11 TAs name
+tell me the Computer Engineering 297 professors name
+tell me the Computer Engineering 297 lecturers name
+tell me the Computer Engineering 297 teachers name
+tell me the Computer Engineering 297 teacher assistants name
+tell me the Computer Engineering 297 TAs name
+tell me the deep learning professors name
+tell me the deep learning lecturers name
+tell me the deep learning teachers name
+tell me the deep learning teacher assistants name
+tell me the deep learning TAs name
+tell us the professors name
+tell us the lecturers name
+tell us the teachers name
+tell us the teacher assistants name
+tell us the TAs name
+tell us the cmpe 297 professors name
+tell us the cmpe 297 lecturers name
+tell us the cmpe 297 teachers name
+tell us the cmpe 297 teacher assistants name
+tell us the cmpe 297 TAs name
+tell us the cmpe 297-11 professors name
+tell us the cmpe 297-11 lecturers name
+tell us the cmpe 297-11 teachers name
+tell us the cmpe 297-11 teacher assistants name
+tell us the cmpe 297-11 TAs name
+tell us the Computer Engineering 297 professors name
+tell us the Computer Engineering 297 lecturers name
+tell us the Computer Engineering 297 teachers name
+tell us the Computer Engineering 297 teacher assistants name
+tell us the Computer Engineering 297 TAs name
+tell us the deep learning professors name
+tell us the deep learning lecturers name
+tell us the deep learning teachers name
+tell us the deep learning teacher assistants name
+tell us the deep learning TAs name
+give me the professors name
+give me the lecturers name
+give me the teachers name
+give me the teacher assistants name
+give me the TAs name
+give me the cmpe 297 professors name
+give me the cmpe 297 lecturers name
+give me the cmpe 297 teachers name
+give me the cmpe 297 teacher assistants name
+give me the cmpe 297 TAs name
+give me the cmpe 297-11 professors name
+give me the cmpe 297-11 lecturers name
+give me the cmpe 297-11 teachers name
+give me the cmpe 297-11 teacher assistants name
+give me the cmpe 297-11 TAs name
+give me the Computer Engineering 297 professors name
+give me the Computer Engineering 297 lecturers name
+give me the Computer Engineering 297 teachers name
+give me the Computer Engineering 297 teacher assistants name
+give me the Computer Engineering 297 TAs name
+give me the deep learning professors name
+give me the deep learning lecturers name
+give me the deep learning teachers name
+give me the deep learning teacher assistants name
+give me the deep learning TAs name
+give us the professors name
+give us the lecturers name
+give us the teachers name
+give us the teacher assistants name
+give us the TAs name
+give us the cmpe 297 professors name
+give us the cmpe 297 lecturers name
+give us the cmpe 297 teachers name
+give us the cmpe 297 teacher assistants name
+give us the cmpe 297 TAs name
+give us the cmpe 297-11 professors name
+give us the cmpe 297-11 lecturers name
+give us the cmpe 297-11 teachers name
+give us the cmpe 297-11 teacher assistants name
+give us the cmpe 297-11 TAs name
+give us the Computer Engineering 297 professors name
+give us the Computer Engineering 297 lecturers name
+give us the Computer Engineering 297 teachers name
+give us the Computer Engineering 297 teacher assistants name
+give us the Computer Engineering 297 TAs name
+give us the deep learning professors name
+give us the deep learning lecturers name
+give us the deep learning teachers name
+give us the deep learning teacher assistants name
+give us the deep learning TAs name
+can you tell me the professors name
+can you tell me the lecturers name
+can you tell me the teachers name
+can you tell me the teacher assistants name
+can you tell me the TAs name
+can you tell me the cmpe 297 professors name
+can you tell me the cmpe 297 lecturers name
+can you tell me the cmpe 297 teachers name
+can you tell me the cmpe 297 teacher assistants name
+can you tell me the cmpe 297 TAs name
+can you tell me the cmpe 297-11 professors name
+can you tell me the cmpe 297-11 lecturers name
+can you tell me the cmpe 297-11 teachers name
+can you tell me the cmpe 297-11 teacher assistants name
+can you tell me the cmpe 297-11 TAs name
+can you tell me the Computer Engineering 297 professors name
+can you tell me the Computer Engineering 297 lecturers name
+can you tell me the Computer Engineering 297 teachers name
+can you tell me the Computer Engineering 297 teacher assistants name
+can you tell me the Computer Engineering 297 TAs name
+can you tell me the deep learning professors name
+can you tell me the deep learning lecturers name
+can you tell me the deep learning teachers name
+can you tell me the deep learning teacher assistants name
+can you tell me the deep learning TAs name
+can you tell us the professors name
+can you tell us the lecturers name
+can you tell us the teachers name
+can you tell us the teacher assistants name
+can you tell us the TAs name
+can you tell us the cmpe 297 professors name
+can you tell us the cmpe 297 lecturers name
+can you tell us the cmpe 297 teachers name
+can you tell us the cmpe 297 teacher assistants name
+can you tell us the cmpe 297 TAs name
+can you tell us the cmpe 297-11 professors name
+can you tell us the cmpe 297-11 lecturers name
+can you tell us the cmpe 297-11 teachers name
+can you tell us the cmpe 297-11 teacher assistants name
+can you tell us the cmpe 297-11 TAs name
+can you tell us the Computer Engineering 297 professors name
+can you tell us the Computer Engineering 297 lecturers name
+can you tell us the Computer Engineering 297 teachers name
+can you tell us the Computer Engineering 297 teacher assistants name
+can you tell us the Computer Engineering 297 TAs name
+can you tell us the deep learning professors name
+can you tell us the deep learning lecturers name
+can you tell us the deep learning teachers name
+can you tell us the deep learning teacher assistants name
+can you tell us the deep learning TAs name
+can you give me the professors name
+can you give me the lecturers name
+can you give me the teachers name
+can you give me the teacher assistants name
+can you give me the TAs name
+can you give me the cmpe 297 professors name
+can you give me the cmpe 297 lecturers name
+can you give me the cmpe 297 teachers name
+can you give me the cmpe 297 teacher assistants name
+can you give me the cmpe 297 TAs name
+can you give me the cmpe 297-11 professors name
+can you give me the cmpe 297-11 lecturers name
+can you give me the cmpe 297-11 teachers name
+can you give me the cmpe 297-11 teacher assistants name
+can you give me the cmpe 297-11 TAs name
+can you give me the Computer Engineering 297 professors name
+can you give me the Computer Engineering 297 lecturers name
+can you give me the Computer Engineering 297 teachers name
+can you give me the Computer Engineering 297 teacher assistants name
+can you give me the Computer Engineering 297 TAs name
+can you give me the deep learning professors name
+can you give me the deep learning lecturers name
+can you give me the deep learning teachers name
+can you give me the deep learning teacher assistants name
+can you give me the deep learning TAs name
+can you give us the professors name
+can you give us the lecturers name
+can you give us the teachers name
+can you give us the teacher assistants name
+can you give us the TAs name
+can you give us the cmpe 297 professors name
+can you give us the cmpe 297 lecturers name
+can you give us the cmpe 297 teachers name
+can you give us the cmpe 297 teacher assistants name
+can you give us the cmpe 297 TAs name
+can you give us the cmpe 297-11 professors name
+can you give us the cmpe 297-11 lecturers name
+can you give us the cmpe 297-11 teachers name
+can you give us the cmpe 297-11 teacher assistants name
+can you give us the cmpe 297-11 TAs name
+can you give us the Computer Engineering 297 professors name
+can you give us the Computer Engineering 297 lecturers name
+can you give us the Computer Engineering 297 teachers name
+can you give us the Computer Engineering 297 teacher assistants name
+can you give us the Computer Engineering 297 TAs name
+can you give us the deep learning professors name
+can you give us the deep learning lecturers name
+can you give us the deep learning teachers name
+can you give us the deep learning teacher assistants name
+can you give us the deep learning TAs name
+would you tell me the professors name
+would you tell me the lecturers name
+would you tell me the teachers name
+would you tell me the teacher assistants name
+would you tell me the TAs name
+would you tell me the cmpe 297 professors name
+would you tell me the cmpe 297 lecturers name
+would you tell me the cmpe 297 teachers name
+would you tell me the cmpe 297 teacher assistants name
+would you tell me the cmpe 297 TAs name
+would you tell me the cmpe 297-11 professors name
+would you tell me the cmpe 297-11 lecturers name
+would you tell me the cmpe 297-11 teachers name
+would you tell me the cmpe 297-11 teacher assistants name
+would you tell me the cmpe 297-11 TAs name
+would you tell me the Computer Engineering 297 professors name
+would you tell me the Computer Engineering 297 lecturers name
+would you tell me the Computer Engineering 297 teachers name
+would you tell me the Computer Engineering 297 teacher assistants name
+would you tell me the Computer Engineering 297 TAs name
+would you tell me the deep learning professors name
+would you tell me the deep learning lecturers name
+would you tell me the deep learning teachers name
+would you tell me the deep learning teacher assistants name
+would you tell me the deep learning TAs name
+would you tell us the professors name
+would you tell us the lecturers name
+would you tell us the teachers name
+would you tell us the teacher assistants name
+would you tell us the TAs name
+would you tell us the cmpe 297 professors name
+would you tell us the cmpe 297 lecturers name
+would you tell us the cmpe 297 teachers name
+would you tell us the cmpe 297 teacher assistants name
+would you tell us the cmpe 297 TAs name
+would you tell us the cmpe 297-11 professors name
+would you tell us the cmpe 297-11 lecturers name
+would you tell us the cmpe 297-11 teachers name
+would you tell us the cmpe 297-11 teacher assistants name
+would you tell us the cmpe 297-11 TAs name
+would you tell us the Computer Engineering 297 professors name
+would you tell us the Computer Engineering 297 lecturers name
+would you tell us the Computer Engineering 297 teachers name
+would you tell us the Computer Engineering 297 teacher assistants name
+would you tell us the Computer Engineering 297 TAs name
+would you tell us the deep learning professors name
+would you tell us the deep learning lecturers name
+would you tell us the deep learning teachers name
+would you tell us the deep learning teacher assistants name
+would you tell us the deep learning TAs name
+would you give me the professors name
+would you give me the lecturers name
+would you give me the teachers name
+would you give me the teacher assistants name
+would you give me the TAs name
+would you give me the cmpe 297 professors name
+would you give me the cmpe 297 lecturers name
+would you give me the cmpe 297 teachers name
+would you give me the cmpe 297 teacher assistants name
+would you give me the cmpe 297 TAs name
+would you give me the cmpe 297-11 professors name
+would you give me the cmpe 297-11 lecturers name
+would you give me the cmpe 297-11 teachers name
+would you give me the cmpe 297-11 teacher assistants name
+would you give me the cmpe 297-11 TAs name
+would you give me the Computer Engineering 297 professors name
+would you give me the Computer Engineering 297 lecturers name
+would you give me the Computer Engineering 297 teachers name
+would you give me the Computer Engineering 297 teacher assistants name
+would you give me the Computer Engineering 297 TAs name
+would you give me the deep learning professors name
+would you give me the deep learning lecturers name
+would you give me the deep learning teachers name
+would you give me the deep learning teacher assistants name
+would you give me the deep learning TAs name
+would you give us the professors name
+would you give us the lecturers name
+would you give us the teachers name
+would you give us the teacher assistants name
+would you give us the TAs name
+would you give us the cmpe 297 professors name
+would you give us the cmpe 297 lecturers name
+would you give us the cmpe 297 teachers name
+would you give us the cmpe 297 teacher assistants name
+would you give us the cmpe 297 TAs name
+would you give us the cmpe 297-11 professors name
+would you give us the cmpe 297-11 lecturers name
+would you give us the cmpe 297-11 teachers name
+would you give us the cmpe 297-11 teacher assistants name
+would you give us the cmpe 297-11 TAs name
+would you give us the Computer Engineering 297 professors name
+would you give us the Computer Engineering 297 lecturers name
+would you give us the Computer Engineering 297 teachers name
+would you give us the Computer Engineering 297 teacher assistants name
+would you give us the Computer Engineering 297 TAs name
+would you give us the deep learning professors name
+would you give us the deep learning lecturers name
+would you give us the deep learning teachers name
+would you give us the deep learning teacher assistants name
+would you give us the deep learning TAs name
+could you tell me the professors name
+could you tell me the lecturers name
+could you tell me the teachers name
+could you tell me the teacher assistants name
+could you tell me the TAs name
+could you tell me the cmpe 297 professors name
+could you tell me the cmpe 297 lecturers name
+could you tell me the cmpe 297 teachers name
+could you tell me the cmpe 297 teacher assistants name
+could you tell me the cmpe 297 TAs name
+could you tell me the cmpe 297-11 professors name
+could you tell me the cmpe 297-11 lecturers name
+could you tell me the cmpe 297-11 teachers name
+could you tell me the cmpe 297-11 teacher assistants name
+could you tell me the cmpe 297-11 TAs name
+could you tell me the Computer Engineering 297 professors name
+could you tell me the Computer Engineering 297 lecturers name
+could you tell me the Computer Engineering 297 teachers name
+could you tell me the Computer Engineering 297 teacher assistants name
+could you tell me the Computer Engineering 297 TAs name
+could you tell me the deep learning professors name
+could you tell me the deep learning lecturers name
+could you tell me the deep learning teachers name
+could you tell me the deep learning teacher assistants name
+could you tell me the deep learning TAs name
+could you tell us the professors name
+could you tell us the lecturers name
+could you tell us the teachers name
+could you tell us the teacher assistants name
+could you tell us the TAs name
+could you tell us the cmpe 297 professors name
+could you tell us the cmpe 297 lecturers name
+could you tell us the cmpe 297 teachers name
+could you tell us the cmpe 297 teacher assistants name
+could you tell us the cmpe 297 TAs name
+could you tell us the cmpe 297-11 professors name
+could you tell us the cmpe 297-11 lecturers name
+could you tell us the cmpe 297-11 teachers name
+could you tell us the cmpe 297-11 teacher assistants name
+could you tell us the cmpe 297-11 TAs name
+could you tell us the Computer Engineering 297 professors name
+could you tell us the Computer Engineering 297 lecturers name
+could you tell us the Computer Engineering 297 teachers name
+could you tell us the Computer Engineering 297 teacher assistants name
+could you tell us the Computer Engineering 297 TAs name
+could you tell us the deep learning professors name
+could you tell us the deep learning lecturers name
+could you tell us the deep learning teachers name
+could you tell us the deep learning teacher assistants name
+could you tell us the deep learning TAs name
+could you give me the professors name
+could you give me the lecturers name
+could you give me the teachers name
+could you give me the teacher assistants name
+could you give me the TAs name
+could you give me the cmpe 297 professors name
+could you give me the cmpe 297 lecturers name
+could you give me the cmpe 297 teachers name
+could you give me the cmpe 297 teacher assistants name
+could you give me the cmpe 297 TAs name
+could you give me the cmpe 297-11 professors name
+could you give me the cmpe 297-11 lecturers name
+could you give me the cmpe 297-11 teachers name
+could you give me the cmpe 297-11 teacher assistants name
+could you give me the cmpe 297-11 TAs name
+could you give me the Computer Engineering 297 professors name
+could you give me the Computer Engineering 297 lecturers name
+could you give me the Computer Engineering 297 teachers name
+could you give me the Computer Engineering 297 teacher assistants name
+could you give me the Computer Engineering 297 TAs name
+could you give me the deep learning professors name
+could you give me the deep learning lecturers name
+could you give me the deep learning teachers name
+could you give me the deep learning teacher assistants name
+could you give me the deep learning TAs name
+could you give us the professors name
+could you give us the lecturers name
+could you give us the teachers name
+could you give us the teacher assistants name
+could you give us the TAs name
+could you give us the cmpe 297 professors name
+could you give us the cmpe 297 lecturers name
+could you give us the cmpe 297 teachers name
+could you give us the cmpe 297 teacher assistants name
+could you give us the cmpe 297 TAs name
+could you give us the cmpe 297-11 professors name
+could you give us the cmpe 297-11 lecturers name
+could you give us the cmpe 297-11 teachers name
+could you give us the cmpe 297-11 teacher assistants name
+could you give us the cmpe 297-11 TAs name
+could you give us the Computer Engineering 297 professors name
+could you give us the Computer Engineering 297 lecturers name
+could you give us the Computer Engineering 297 teachers name
+could you give us the Computer Engineering 297 teacher assistants name
+could you give us the Computer Engineering 297 TAs name
+could you give us the deep learning professors name
+could you give us the deep learning lecturers name
+could you give us the deep learning teachers name
+could you give us the deep learning teacher assistants name
+could you give us the deep learning TAs name
